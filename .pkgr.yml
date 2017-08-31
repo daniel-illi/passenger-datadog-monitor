@@ -1,0 +1,3 @@
+buildpack: https://github.com/kr/heroku-buildpack-go#master
+targets:
+  centos-6:
